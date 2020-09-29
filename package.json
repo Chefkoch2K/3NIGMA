@@ -1,0 +1,16 @@
+{
+  "name": "exeta-selfbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dxmon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.2",
+    "pornsearch": "^2.4.3",
+    "randomstring": "^1.1.5"
+  }
+}
